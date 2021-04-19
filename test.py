@@ -8,7 +8,7 @@ class Ventana():
     __builder = None
     __lblLabel = None
     __wndMain = None
-s
+
     def __init__(self, gladefile):
         builder = Gtk.Builder()
         builder.add_from_file(gladefile)
