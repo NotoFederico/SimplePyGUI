@@ -3,7 +3,7 @@ A python GUI desktop application which redirects the user to go to NASA's Persev
 
 ---
 
-![ImageIAEnhancer.Cover](Cover.png)
+![SimplePyGUI.Cover](Cover.png)
 
 ---
 
