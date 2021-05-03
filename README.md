@@ -26,7 +26,8 @@ A python GUI desktop application which redirects the user to go to NASA's Persev
 
 # 1. Introduction
 
-**SimplePyGUI** is  
+**SimplePyGUI** is a open source application made in Python and Glade (GUI). The simple graphic interface allows 
+the user to go to NASA's Perseverance site with a single click.
 
 ---
 
